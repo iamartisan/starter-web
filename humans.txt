@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joseph Natividad  jnnatividad@gmail.com
 
 # THANKS
 
